@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p121032-e1520953.adobeaemcloud.com/bin/franklin.delivery/azmirrul-izzat/poceds-aem/main"
+    type: "markup"
+    suffix: ".html"
